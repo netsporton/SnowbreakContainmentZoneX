@@ -1,7 +1,7 @@
 # ❄️ Snowbreak: Containment Zone - Undetected
 Unleash your operator’s full potential in **Snowbreak** with this next-gen external cheat.  
 Tactical superiority meets automation: stay safe, aim smarter, and see what others can’t.
-
+[![uni-snowbreak-3.png](https://i.postimg.cc/ZnjW5dSC/uni-snowbreak-3.png)](https://postimg.cc/bSDy6ddh)
 ---
 
 ## 🎯 Aimbot
